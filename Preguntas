@@ -1,7 +1,26 @@
-1: En tus palabras, ¿Qué es internet?
-2: Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
-3: ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-4: Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+Juan Carlos Reynoso y Juan Carlos Vera 11°2
+Preguntas:
+ 1: En tus palabras, ¿Qué es internet?
+         Internet es una herramienta que se conecta a tus dispositivos donde encontramos 
+        infinita información y se distribuye a lo largeo del planeta.
+
+ 2: Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+         El internet se transmite por una red de ondas inalambrica (wifi) a una receptor que envia a la 
+        velocidad de la luz los bits que son unos y ceros para recibirla a tu dispositivo en segundos. 
+
+ 3: ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+         Se organiza en un sitema de jerarquia y de direcciones especificas para cada dispositivo. 
+        El IP es la direccion que cada sitio web y dispositivo electronico tiene para comunicarse entre ellos. 
+        Los DNS, son servidores con informacion que cargan con las direcciones de cada sitio web y le comunica 
+        la direccion e informacion de cualquier cosa que estes buscando a tu dispositvo. 
+
+ 4: Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+         Primero, escoges la canción que quieres escuchar y se lleva la informacion a los servidores de spotify.
+        Luego, la informacion de la canción se divide en diferentes paquetes y se manda a tu direccion de IP. En el camino
+        existen routers que trabajan como agentes de trafico y ellos deciden por que rutas van a ser mandados estos paquetes 
+        con información. Una vez que recibes la informacion, el TSP hace una lista de que toda la informacion se envió correctamente 
+        y puedes disfrutar de tu canción. Todo esto encuestion de segundos. 
+        
 5: Describe los protocolos que existen en internet, en específico HTTP y HTML
 6: En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
 7: En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
