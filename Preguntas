@@ -22,6 +22,22 @@ Preguntas:
         y puedes disfrutar de tu canción. Todo esto encuestion de segundos. 
         
 5: Describe los protocolos que existen en internet, en específico HTTP y HTML
+HTTP significa Hypertext Transfer y Protocol y sirve para que tu te puedas meter a las paginas por el GET request y luego el HTML significa Hypertext Markup 
+y ese sirve que cuando te metas a una pagina puedas tener toda la informacion y los links y las imagenes necesarias.
+
 6: En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+Encriptacion sirve para que nos pueda proteger de los hackers, cuando metes informacion privad a tu compu, 
+lo que hace es que le pone informacion falsa arriba para que no puedan ver lo de abajo que es tu informacion
+las llaves publicas son las que les dan trillones de otras opciones a los hackers para que no puedan entrar y se tarden trillones de años 
+en desifrar.
+
 7: En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+Como protegerte de los hackers, es siempre tener tu back up en la compu, y mucho cuidado por que nunca sabes quien puede ser puede 
+tener 40 o 15 años, ya hay de todo y tener mucho cuidado con los virus que cuando un hacker te mete el virus usa tu compu para hacer todo lo malo que quiere hacer, 
+asi hace esto para que no lo cachen y vean que es desde tu compu.
+
 8: ¿Cómo funciona la búsqueda de google?  
+Aqui sirve muy diferente de lo que esperamos, hay gente que hace las paginas,y cuando tu buscas algo te dan un buen de opciones para meterte, 
+y esto lo hacen para ayudarte a que lo encuentres mas facil, ponen las que mas te sirven arriba y las que no tanto hasta abajo, 
+luego esta la spider que lo que hace es que va por cada pagina posible, y va agarrando informacion de todas, para despues juntar todo lo mas 
+importante y que tu la encuentres mas facil.
